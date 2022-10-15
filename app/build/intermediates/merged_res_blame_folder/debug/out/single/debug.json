@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_menu_lk.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\menu_lk.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_start.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_menu_refund.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\menu_refund.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-hdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-hdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_setting_tsp.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_setting_tsp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_bank_apps.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_bank_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_fragment_other_settings.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_other_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_after_center.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_after_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_pin_code.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_pin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\xml_splits0.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\xml\\splits0.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_setting_display_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\setting_display_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_arrow_down_swipe.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_arrow_down_swipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_operations_list.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_operations_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_payment_info_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\payment_info_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_auth.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_help_light_orange.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_help_light_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_center.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_show_qr_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\show_qr_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_success_big.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\success_big.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_help_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\help_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\color_card_border_selector.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\color\\card_border_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_item_operations_list.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_operations_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_logoff.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_logoff.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_qr.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_fragment_generateqr.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_generateqr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_rounded_dialog.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\rounded_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_success_db.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_success_db.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_reload.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_qr_display.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\qr_display.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-mdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-mdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_setting_display.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_setting_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_refund.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_refund.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_app_item_back_ripple.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\app_item_back_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_red_button.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_listview_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_help_btn.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\help_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_end.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_line_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\line_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_uparrow.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\uparrow.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_operation.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_operation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_status_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\status_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xhdpi-v4_logo.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xhdpi-v4\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_lk.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_lk.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_payments_list.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_payments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_payment_account_form.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_payment_account_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_drop_down_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_menu_operation.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\menu_operation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_delo_btn_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\delo_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_item_app.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_qr_icon.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_qr_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_bank_card_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\bank_card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_black_thumb.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\black_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_item_payment_status.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_payment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_qr_button_icon.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\qr_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_settings_tsp_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\settings_tsp_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_app_item_divider.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\app_item_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_exposed_dropdown_arrow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\exposed_dropdown_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_button_text_color.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout-v26_row_scan_result.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout-v26\\row_scan_result.xml"
+    },
+    {
+        "merged": "ru.mertech.sbpskb.app-merged_res-62:/layout_fragment_other_settings.xml.flat",
+        "source": "ru.mertech.sbpskb.app-main-64:/layout/fragment_other_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_failed_db.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_failed_db.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_generate_qr.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_generate_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_table_shape.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\table_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_security_lv_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\security_lv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_custom_switch_track.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\custom_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_anim.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_sbp_large.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\sbp_large.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_brand.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\brand.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_help.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_fail.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_fail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_app_item_back.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\app_item_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_edit_text_cursor.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\edit_text_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_key.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_success.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_change_pass.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_change_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\menu_menu_payment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\menu\\menu_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_edittxt_style.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\edittxt_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_other_settings.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_other_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_shape_dialog_date_picker.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\shape_dialog_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\color_custom_text_color.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\color\\custom_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_activity_refund.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_dialog_filter.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_custom_switch.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\custom_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_wait_rectangle_pre_center.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\wait_rectangle_pre_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\drawable_ic_sbp.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\drawable\\ic_sbp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\xml_filepaths.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-merged_res-62:\\layout_bank_choice_fragment.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\bank_choice_fragment.xml"
+    }
+]

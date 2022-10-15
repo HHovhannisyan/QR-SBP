@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_change_pass.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_change_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_help.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\drop_down_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_refund.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\show_qr_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\show_qr_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\bank_choice_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\bank_choice_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_payment_account_form.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_payment_account_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\item_app.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\bank_card_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\bank_card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_lk.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_lk.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_refund.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_refund.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\security_lv_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\security_lv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\item_operations_list.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_operations_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_auth.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\fragment_generateqr.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_generateqr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_pin_code.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_pin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_filter.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\payment_info_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\payment_info_fragment.xml"
+    },
+    {
+        "merged": "ru.mertech.sbpskb.app-mergeDebugResources-61:/layout/fragment_other_settings.xml",
+        "source": "ru.mertech.sbpskb.app-main-64:/layout/fragment_other_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\help_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\help_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_operations_list.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_operations_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\item_payment_status.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\item_payment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\status_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\status_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\dialog_bank_apps.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\dialog_bank_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\fragment_other_settings.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_other_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\setting_display_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\setting_display_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\settings_tsp_fragment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\settings_tsp_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_operation.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_operation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\activity_generate_qr.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\activity_generate_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\listview_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-mergeDebugResources-61:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\ru.mertech.sbpskb.app-main-64:\\layout\\fragment_settings.xml"
+    }
+]

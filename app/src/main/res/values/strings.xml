@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="accepted_refund_message" translatable="false">Операция завершена успешно</string>
+    <string name="address_title" translatable="false">Адрес</string>
+    <string name="amount_is_incorrect_message" translatable="false">Введена некорректная сумма</string>
+    <string name="amount_operation" translatable="false">%1$s ₽</string>
+    <string name="amount_operation_title" translatable="false">Сумма операции</string>
+    <string name="app_name" translatable="false">Mertech Куайринг</string>
+    <string name="kuayring" translatable="false">Куайринг</string>
+    <string name="one" translatable="false">%1$s</string>
+
+    <string name="attention_title" translatable="false">Внимание!</string>
+    <string name="auth" translatable="false">Авторизация</string>
+    <string name="auth_error_message" translatable="false">Ошибка авторизации.\\nПроверьте логин и пароль.</string>
+    <string name="brand_name_title" translatable="false">Наименование</string>
+    <string name="cancel" translatable="false">Отмена</string>
+    <string name="change_btn_title" translatable="false">Изменить</string>
+    <string name="change_pass_text" translatable="false">Изменить пароль</string>
+    <string name="change_temp_pass_message" translatable="false">Вы запустили приложение в первый раз.\10Вероятно, у Вас установлен временный пароль.\10Рекомендуем сменить пароль, так как аккаунт может быть заблокирован через 7 дней.</string>
+    <string name="check_refund_transfer_message" translatable="false">Проверяем возможность возврата</string>
+    <string name="city_form_title" translatable="false">Город *</string>
+    <string name="code_country_form" translatable="false">+7</string>
+    <string name="comment_title_help_dialog" translatable="false"><font size="16">Комментарии</font></string>
+    <string name="commission" translatable="false">%1$s ₽</string>
+    <string name="commission_title" translatable="false">Комиссия</string>
+    <string name="contact_person_form_title" translatable="false">Контактное лицо</string>
+    <string name="contact_person_title_help_dialog" translatable="false"><font size="16">Адрес</font></string>
+    <string name="contact_phone_number_title" translatable="false">Контактный тел.</string>
+    <string name="current_pass_title" translatable="false">Текущий пароль</string>
+    <string name="date_end_title" translatable="false">По</string>
+    <string name="date_start_title" translatable="false">C</string>
+    <string name="default_web_client_id">419397036225-utbs9i94r9f8k1899q4la6sk4bra0nmc.apps.googleusercontent.com</string>
+    <string name="dialog_cancel_btn" translatable="false">Отмена</string>
+    <string name="dialog_date_range_title" translatable="false">Выберете диапазон</string>
+    <string name="dialog_empty_date_error_message" translatable="false">Заполните диапазон дат</string>
+    <string name="dialog_end_date_error_message" translatable="false">Конечная дата не может предшествовать начальной</string>
+    <string name="dialog_error_date_title" translatable="false">Дата не установлена</string>
+    <string name="dialog_ok_btn" translatable="false">Ок</string>
+    <string name="dialog_pin_btn" translatable="false">Ок</string>
+    <string name="dialog_send_request_btn" translatable="false">Отправить запрос</string>
+    <string name="dialog_start_date_error_message" translatable="false">Начальная дата не может превышать конечную</string>
+    <string name="do_you_want_exit_dialog_message" translatable="false">Вы уверены, что хотите выйти из личного кабинета?\10\10Вы не сможете совершать продажи и просматривать список операций.</string>
+    <string name="email_form_title" translatable="false">Email</string>
+    <string name="empty_fields_error_help_dialog_message" translatable="false">Для отправки запроса необходимо заполнить все поля</string>
+    <string name="empty_pref_error_message" translatable="false">Для начала работы небходимо авторизоваться в настройках приложения.</string>
+    <string name="error" translatable="false">Ошибка</string>
+    <string name="error_disable_lock_screen_message" translatable="false">Экран блокировки не был отключен.\10\10Введен неверный ПИН-код.</string>
+    <string name="error_message" translatable="false">Код ошибки: %1$s\10Ошибка: %2$s</string>
+    <string name="error_set_pin_code_message" translatable="false">ПИН-код не был установлен.\10\10ПИН-код должен состоять из цифр от 0 до 9.\10\10Введенные ПИН-коды должны совпадать.</string>
+    <string name="error_title" translatable="false">Ошибка</string>
+    <string name="exit_lk_dialog_title" translatable="false">Выход</string>
+    <string name="firebase_database_url">https://sbp-android-1296d.firebaseio.com</string>
+    <string name="form_wait_message" translatable="false">Создаем заявление на открытие р/с</string>
+    <string name="gcm_defaultSenderId">419397036225</string>
+    <string name="lbl_complete_payment_in_bank_app" formatted="true" translatable="false">Выберите банк\nдля подтверждения оплаты</string>
+    <string name="lbl_no_bank_apps" formatted="true" translatable="false">Отсутствует банковское\nприложение</string>
+    <string name="hint_completePayment_in_bank_app" formatted="true" translatable="false">Выбрав банк, Вы перейдете в мобильное\nприложение для завершения оплаты.</string>
+
+    <string name="get_payment_status_message" translatable="false">Проверяем статус оплаты</string>
+    <string name="get_payments_list_message" translatable="false">Получаем список операций</string>
+    <string name="get_sbp" translatable="false">Подключиться к СБП</string>
+    <string name="google_api_key">AIzaSyDYDFVpCFIdBQ_5o7RNedzfemTXTx7cJ4w</string>
+    <string name="google_app_id">1:419397036225:android:6c34dfbae9a615e223cc40</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDYDFVpCFIdBQ_5o7RNedzfemTXTx7cJ4w</string>
+    <string name="google_storage_bucket">sbp-android-1296d.appspot.com</string>
+    <string name="hide_pass" translatable="false">********</string>
+    <string name="i_have_login" translatable="false">У меня уже есть аккаунт</string>
+    <string name="id_title" translatable="false">ID</string>
+    <string name="incorrect_login_or_pass_message" translatable="false">Неверный логин или пароль.</string>
+    <string name="inn" translatable="false">ИНН: %1$s</string>
+    <string name="inn_form_title" translatable="false">ИНН *</string>
+    <string name="key_city" translatable="false">ru.ascintegraciya.sbpskbandroid.city</string>
+    <string name="key_email" translatable="false">ru.ascintegraciya.sbpskbandroid.email</string>
+    <string name="key_inn" translatable="false">ru.ascintegraciya.sbpskbandroid.inn</string>
+    <string name="key_last_name" translatable="false">ru.ascintegraciya.sbpskbandroid.last_name</string>
+    <string name="key_name" translatable="false">ru.ascintegraciya.sbpskbandroid.name</string>
+    <string name="key_ogrn" translatable="false">ru.ascintegraciya.sbpskbandroid.ogrn</string>
+    <string name="key_org_name" translatable="false">ru.ascintegraciya.sbpskbandroid.org_name</string>
+    <string name="key_phone" translatable="false">ru.ascintegraciya.sbpskbandroid.phone</string>
+    <string name="key_pref_firebase_token" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_firebase_token</string>
+    <string name="key_pref_is_first_launch" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_is_first_launch</string>
+    <string name="key_pref_is_first_payment" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_is_first_payment</string>
+    <string name="key_pref_login" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_login</string>
+    <string name="key_pref_merchant_id" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_merchant_id</string>
+    <string name="key_pref_pass" translatable="false">ru.ascintegraciya.sbpskbandroid.pref_pass</string>
+    <string name="key_pref_pin_code" translatable="false">ru.ascintegraciya.sbpskbandroid.pin_code</string>
+    <string name="last_name_form_title" translatable="false">Фамилия *</string>
+    <string name="lk_title" translatable="false">Личный кабинет</string>
+    <string name="lock_screen_title" translatable="false">Экран блокировки</string>
+    <string name="log_off_btn" translatable="false">Выйти</string>
+    <string name="login_btn_text" translatable="false">Войти</string>
+    <string name="login_hint" translatable="false">Логин</string>
+    <string name="login_title" translatable="false">Логин</string>
+    <string name="mcc_title" translatable="false">Код MCC</string>
+    <string name="merchant_address" translatable="false">%1$s, %2$s, %3$s</string>
+    <string name="month_radio_title" translatable="false">Текущий месяц</string>
+    <string name="name_form_title" translatable="false">Имя *</string>
+    <string name="name_ogr_form_title" translatable="false">Наименование организации*</string>
+    <string name="name_taxpayer_title" translatable="false">Юр. лицо / ИП</string>
+    <string name="new_pass_again_title" translatable="false">Новый пароль ещё раз</string>
+    <string name="new_pass_title" translatable="false">Новый пароль</string>
+    <string name="show_qr_btn_text" translatable="false">Показать на экране \n телефона</string>
+    <string name="new_pin_code_again_title" translatable="false">Новый ПИН-код ещё раз</string>
+    <string name="new_pin_code_title" translatable="false">Новый ПИН-код</string>
+    <string name="ogrn" translatable="false">ОГРН: %1$s</string>
+    <string name="ogrn_form_title" translatable="false">ОГРН *</string>
+    <string name="ok" translatable="false">Ок</string>
+    <string name="open_payment_account_btn_text" translatable="false">Открыть расчетный счет</string>
+    <string name="qr_code_text" translatable="false">Ваш QR-код сформирован и выведен \n на экран подключенного QR-дисплея</string>
+    <string name="wait_for_qr" translatable="false">QR-код будет выведен \n на экран телефона через \n\n %1$d сек</string>
+    <string name="get_qr_fast" translatable="false">Получить быстрее?</string>
+
+    <string name="operation_date_title" translatable="false">Дата операции</string>
+    <string name="operation_id_title" translatable="false">Идентификатор операции</string>
+    <string name="operation_title" translatable="false">Операция</string>
+    <string name="operations_list_error_message" translatable="false">Код ошибки: %1$s\10Ошибка: %2$s</string>
+    <string name="org_form_title" translatable="false">Организация</string>
+    <string name="pas_hint" translatable="false">Пароль</string>
+    <string name="pas_title" translatable="false">Пароль</string>
+    <string name="password_not_equals_error_message" translatable="false">Введенные пароли не совпадают. Повторите ввод пароля и его подтверждения.</string>
+    <string name="payer_bank_id_title" translatable="false">Идентификатор банка плательщика</string>
+    <string name="payer_bank_name_title" translatable="false">Наименование банка плательщика</string>
+    <string name="payer_name_title" translatable="false">ФИО Плательщика</string>
+    <string name="payment_account_form_message" translatable="false">Для подключения к СБП, Вам необходимо открыть бесплатный р/с в Делобанк.\10\10После заполнения анкеты, с Вами свяжется менеджер банка и поможет открыть р/с и подключиться к СБП.</string>
+    <string name="payment_account_form_title" translatable="false">Анкета</string>
+    <string name="phone_form_title" translatable="false">Телефон *</string>
+    <string name="phone_number_title_help_dialog" translatable="false"><font size="16">Номер телефона<font color='@color/red'>* </font>(маска нужна?)</font></string>
+    <string name="pin_code_title" translatable="false">ПИН-код</string>
+    <string name="promo_code_form_title" translatable="false">Промокод</string>
+    <string name="put_aside" translatable="false">Отложить</string>
+    <string name="put_aside_message" translatable="false">Операция отложена.\10\10Для проверки оплаты QR кода, откройте список операций.\10\10В случае оплаты, операция отобразится в списке.</string>
+    <string name="refund" translatable="false">Провести возврат</string>
+    <string name="refund_amount_title" translatable="false">Сумма возврата</string>
+    <string name="refund_approved_message" translatable="false">Операция возврата одобрена</string>
+    <string name="refund_btn" translatable="false">Провести возврат</string>
+    <string name="refund_transfer_message" translatable="false">Проводим возврат</string>
+    <string name="register_qr_message" translatable="false">Запрашиваем QR код</string>
+    <string name="repeat" translatable="false">Повторить</string>
+    <string name="request_not_accepted_help_dialog_message" translatable="false">Не удалось принять Ваш запрос. Пожалуйста, повторите позже.</string>
+    <string name="rub_symbol" translatable="false">₽</string>
+    <string name="select_city_message" translatable="false">Если Вы не нашли свой город в списке, выберите ближайший к Вам населенный пункт из списка.</string>
+    <string name="select_range_radio_title" translatable="false">Указать диапазон</string>
+    <string name="set_pin_code_title" translatable="false">Установить пароль экрана блокировки</string>
+    <string name="share" translatable="false">Поделиться</string>
+    <string name="simple_password_error_message" translatable="false">Пароль должен состоять из восьми или более символов латинского алфавита, содержать заглавные и строчные буквы, цифры. Для усложнения рекомендуем добавить символы и знаки препинания!</string>
+    <string name="status_operation_title" translatable="false">Статус операции</string>
+    <string name="status_title" translatable="false">Статус</string>
+    <string name="success_change_pass_message" translatable="false">Ваш пароль успешно изменён.</string>
+    <string name="success_change_pass_title" translatable="false">Пароль изменён</string>
+    <string name="success_disable_lock_screen_message" translatable="false">Экран блокировки успешно отключен</string>
+    <string name="success_disable_lock_screen_title" translatable="false">Экран блокировки отключен</string>
+    <string name="success_payment_message" translatable="false">Перевод выполнен успешно!</string>
+    <string name="success_set_pin_code_message" translatable="false">ПИН-код успешно установлен</string>
+    <string name="success_set_pin_code_title" translatable="false">ПИН-код установлен</string>
+    <string name="sum_rub" translatable="false">%1$s ₽</string>
+    <string name="timeout_error" translatable="false">Нет ответа от удаленного сервера</string>
+    <string name="to_operations_list_btn" translatable="false">К списку операций</string>
+    <string name="to_sales_btn" translatable="false">К продажам</string>
+    <string name="type_operation_title" translatable="false">Тип операци</string>
+    <string name="type_title" translatable="false">Тип</string>
+    <string name="unknown_status_refund_transfer_message" translatable="false">Неизвестный статус операции возврата.\10Обратитесь в техническую поддержку card@skbbank.ru</string>
+    <string name="user_agreement" translatable="false">Нажимая кнопку «Принять», я, настоящим свободно, своей волей и в своем интересе в соответствии с Федеральным законом от 27.07.2006 № 152-ФЗ «О персональных данных» даю согласие ООО «АСЦ Интеграция» (ИНН 2464135001, ОГРН 1172468015180), которое находится по адресу: 660093, г. Красноярск, ул. Академика Вавилова, д. 1, стр. 10, помещение 76, офис 323/4 (далее – Компания), на автоматизированную и неавтоматизированную обработку при использовании мною программного обеспечения «СБП Куайринг», реализованного в виде мобильного приложения для операционной системы Android (далее – приложение СБП Куайринг), моих персональных данных, в соответствии со следующим перечнем:\10\10 – фамилия, имя, отчество;\10\10 – адрес электронной почты;\10\10 – номер телефона;\10\10 – наименование юридического лица;\10\10 – город осуществления предпринимательской деятельности;\10\10 – идентификационный номер налогоплательщика;\10\10 – реквизиты свидетельства постановки на учет в налоговом органе.\10\10 Также даю свое согласие на осуществление компанией следующих действий с моими персональными данными:\10\10 - сбор;\10\10 - уточнение (обновление, изменение);\10\10 - использование;\10\10 - передача (распространение, предоставление, доступ) третьим лицам,с которыми у Компании заключено соглашение (в котором Компания выступает Исполнителем, Организатором) и получено поручение на обработку персональных данных (передачу);\10\10 - передача по требованию суда, в том числе, третьим лицам, с соблюдением мер, обеспечивающих защиту персональных данных от несанкционированного доступа.\10\10 Целью сбора и передачи данных третьим лицам является направление индивидуального коммерческого предложения пользователю приложения СБП Куайринг;\10\10 Настоящее согласие действует бессрочно с момента предоставления данных и может быть отозвано Пользователем путем подачи распоряжения с указанием данных, определенных Федерального закона от 27.07.2006 N 152-ФЗ «О персональных данных».\10\10 Отзыв согласия на обработку персональных данных может быть осуществлен путем направления соответствующего распоряжения на адрес электронной почты 2050696@bk.ru или info@sib-integ.ru.</string>
+    <string name="user_agreement_check_box_text" translatable="false">Нажимая кнопку «открыть расчетный счет», я даю свое согласие на обработку моих персональных данных, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных», на условиях и для целей, определенных в Согласии на обработку персональных данных</string>
+    <string name="user_title" translatable="false">Пользователь</string>
+    <string name="week_radio_title" translatable="false">Текущая неделя</string>
+    <string name="your_merchant_title" translatable="false">Ваш ТСП</string>
+
+    <string name="stavka" translatable="false">• Ставка за эквайринг <font color='@color/red'>0.4 - 0.7 % </font>•</string>
+    <string name="enrollment" translatable="false">• Зачисление денег на счет за <font color='@color/red'>15 секунд </font>•</string>
+    <string name="title_qr_code" translatable="false">Сформировать QR</string>
+    <string name="INN"><font size="16">ИНН<font color='@color/red'>*</font></font></string>
+
+
+    <string-array name="banks">
+        <item>Тинькофф</item>
+        <item>Raiffesen</item>
+
+    </string-array>
+</resources>

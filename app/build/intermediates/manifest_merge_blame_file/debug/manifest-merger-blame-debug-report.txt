@@ -1,0 +1,607 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.mertech.sbpskb"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+11-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:6:5-73
+11-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:6:22-70
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:9:5-66
+14-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:9:22-63
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:10:5-68
+15-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:10:22-65
+16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+16-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:11:5-110
+16-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:11:22-107
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:12:5-82
+17-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:12:22-79
+18    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+18-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:13:5-76
+18-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:13:22-73
+19    <uses-permission
+19-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:14:5-68
+20        android:name="android.permission.BLUETOOTH"
+20-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:14:22-65
+21        android:maxSdkVersion="30" />
+21-->[no.nordicsemi.android:ble:2.4.1] C:\Users\user\.gradle\caches\transforms-3\304a09da165611a1faad71eda4342302\transformed\ble-2.4.1\AndroidManifest.xml:14:9-35
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:15:5-74
+22-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:15:22-71
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:16:5-81
+23-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:16:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:17:5-79
+24-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:17:22-76
+25
+26    <uses-feature
+26-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:19:5-21:35
+27        android:name="android.hardware.bluetooth_le"
+27-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:20:9-53
+28        android:required="true" />
+28-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:21:9-32
+29
+30    <queries>
+30-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:23:5-31:15
+31        <intent>
+31-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:24:9-30:18
+32            <data
+32-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:25:13-27:42
+33                android:host="qr.nspk.ru"
+33-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:26:17-42
+34                android:scheme="https" />
+34-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:27:17-39
+35
+36            <action android:name="android.intent.action.VIEW" />
+36-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:29:13-65
+36-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:29:21-62
+37        </intent>
+38    </queries>
+39
+40    <!-- To obtain Google Advertising Identifier on Android 12 and higher -->
+41    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+41-->[com.yandex.android:mobmetricalib:4.2.0] C:\Users\user\.gradle\caches\transforms-3\77271567f1de9e39e714450c19f5ed90\transformed\mobmetricalib-4.2.0\AndroidManifest.xml:23:5-79
+41-->[com.yandex.android:mobmetricalib:4.2.0] C:\Users\user\.gradle\caches\transforms-3\77271567f1de9e39e714450c19f5ed90\transformed\mobmetricalib-4.2.0\AndroidManifest.xml:23:22-76
+42    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+42-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+42-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:22-62
+43    <uses-feature
+43-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+44        android:name="android.hardware.camera"
+44-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+45        android:required="false" />
+45-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+46    <uses-feature
+46-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+47        android:name="android.hardware.camera.front"
+47-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+48        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+48-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+49    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+50    <uses-feature
+50-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+51        android:name="android.hardware.camera.autofocus"
+51-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+52        android:required="false" />
+52-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+53    <uses-feature
+53-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+54        android:name="android.hardware.camera.flash"
+54-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+55        android:required="false" />
+55-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+56    <uses-feature
+56-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+57        android:name="android.hardware.screen.landscape"
+57-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+58        android:required="false" />
+58-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+59    <uses-feature
+59-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+60        android:name="android.hardware.wifi"
+60-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+61        android:required="false" />
+61-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+62
+63    <application
+63-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:33:5-260:19
+64        android:name="ru.mertech.sbpskb.MyApp"
+64-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:34:9-30
+65        android:allowBackup="true"
+65-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:35:9-35
+66        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+66-->[androidx.core:core:1.7.0] C:\Users\user\.gradle\caches\transforms-3\6e6441b9dd4302a65bcc03f208aaf969\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+67        android:debuggable="true"
+68        android:icon="@mipmap/logo"
+68-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:36:9-36
+69        android:label="@string/app_name"
+69-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:37:9-41
+70        android:roundIcon="@mipmap/ic_launcher_round"
+70-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:38:9-54
+71        android:supportsRtl="true"
+71-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:39:9-35
+72        android:testOnly="true"
+73        android:theme="@style/AppTheme" >
+73-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:40:9-40
+74        <activity
+74-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:43:9-47:56
+75            android:name="ru.mertech.sbpskb.ui.activities.GenerateQRActivity"
+75-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:44:13-61
+76            android:exported="false"
+76-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:45:13-37
+77            android:screenOrientation="portrait" />
+77-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:46:13-49
+78        <activity
+78-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:48:9-50:54
+79            android:name="ru.mertech.sbpskb.ui.activities.StartActivity"
+79-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:49:13-56
+80            android:screenOrientation="fullSensor" />
+80-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:50:13-51
+81
+82        <provider
+82-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:52:9-60:20
+83            android:name="androidx.core.content.FileProvider"
+83-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:53:13-62
+84            android:authorities="ru.mertech.sbpskb.fileprovider"
+84-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:54:13-65
+85            android:exported="false"
+85-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:55:13-37
+86            android:grantUriPermissions="true" >
+86-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:56:13-47
+87            <meta-data
+87-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:57:13-59:53
+88                android:name="android.support.FILE_PROVIDER_PATHS"
+88-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:58:17-67
+89                android:resource="@xml/filepaths" />
+89-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:59:17-50
+90        </provider>
+91
+92        <activity
+92-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:62:9-64:54
+93            android:name="ru.mertech.sbpskb.ui.activities.RefundActivity"
+93-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:63:13-57
+94            android:screenOrientation="fullSensor" />
+94-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:64:13-51
+95        <activity
+95-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:65:9-67:54
+96            android:name="ru.mertech.sbpskb.ui.activities.LKActivity"
+96-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:66:13-53
+97            android:screenOrientation="fullSensor" />
+97-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:67:13-51
+98        <activity
+98-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:68:9-70:54
+99            android:name="ru.mertech.sbpskb.ui.activities.AuthActivity"
+99-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:69:13-55
+100            android:screenOrientation="fullSensor" />
+100-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:70:13-51
+101        <activity
+101-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:71:9-73:54
+102            android:name="ru.mertech.sbpskb.ui.activities.OperationsListActivity"
+102-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:72:13-65
+103            android:screenOrientation="fullSensor" />
+103-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:73:13-51
+104        <activity
+104-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:74:9-76:54
+105            android:name="ru.mertech.sbpskb.ui.activities.PaymentActivity"
+105-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:75:13-58
+106            android:screenOrientation="fullSensor" />
+106-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:76:13-51
+107        <activity
+107-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:77:9-79:54
+108            android:name="ru.mertech.sbpskb.ui.activities.PaymentAccountFormActivity"
+108-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:78:13-69
+109            android:screenOrientation="fullSensor" />
+109-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:79:13-51
+110        <activity
+110-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:80:9-82:54
+111            android:name="ru.mertech.sbpskb.ui.activities.OperationActivity"
+111-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:81:13-60
+112            android:screenOrientation="fullSensor" />
+112-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:82:13-51
+113        <activity
+113-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:83:9-94:20
+114            android:name="ru.mertech.sbpskb.ui.activities.MainActivity"
+114-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:84:13-55
+115            android:configChanges="keyboardHidden|orientation|screenSize"
+115-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:85:13-74
+116            android:exported="true"
+116-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:86:13-36
+117            android:screenOrientation="fullSensor"
+117-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:87:13-51
+118            android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize|adjustPan|adjustNothing" >
+118-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:88:13-109
+119            <intent-filter>
+119-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:89:13-93:29
+120                <action android:name="android.intent.action.MAIN" />
+120-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:90:17-69
+120-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:90:25-66
+121
+122                <category android:name="android.intent.category.LAUNCHER" />
+122-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:92:17-77
+122-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:92:27-74
+123            </intent-filter>
+124        </activity>
+125
+126        <service
+126-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:96:9-102:19
+127            android:name="ru.mertech.sbpskb.PushService"
+127-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:97:13-40
+128            android:exported="false" >
+128-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:98:13-37
+129            <intent-filter>
+129-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:99:13-101:29
+130                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+130-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:100:17-78
+130-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:100:25-75
+131            </intent-filter>
+132        </service>
+133        <service
+133-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:103:9-110:19
+134            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+134-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:104:13-82
+135            android:directBootAware="true"
+135-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:105:13-43
+136            android:exported="false" >
+136-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:106:13-37
+137            <intent-filter android:priority="-500" >
+137-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:99:13-101:29
+137-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:107:28-51
+138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+138-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:100:17-78
+138-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:100:25-75
+139            </intent-filter>
+140        </service>
+141        <service
+141-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:111:9-130:19
+142            android:name="com.google.firebase.components.ComponentDiscoveryService"
+142-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:112:13-84
+143            android:directBootAware="true"
+143-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:113:13-43
+144            android:exported="false" >
+144-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:114:13-37
+145            <meta-data
+145-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:115:13-117:85
+146                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+146-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:116:17-119
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:117:17-82
+148            <meta-data
+148-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:118:13-120:85
+149                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+149-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:119:17-139
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:120:17-82
+151            <meta-data
+151-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:121:13-123:85
+152                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+152-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:122:17-96
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:123:17-82
+154            <meta-data
+154-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:124:13-126:85
+155                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+155-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:125:17-115
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:126:17-82
+157            <meta-data
+157-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:127:13-129:85
+158                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+158-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:128:17-127
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:129:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\user\.gradle\caches\transforms-3\2793f202ccf5d197367d681772e6f6cc\transformed\firebase-dynamic-links-21.0.1\AndroidManifest.xml:27:13-29:85
+161                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+161-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\user\.gradle\caches\transforms-3\2793f202ccf5d197367d681772e6f6cc\transformed\firebase-dynamic-links-21.0.1\AndroidManifest.xml:28:17-133
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\user\.gradle\caches\transforms-3\2793f202ccf5d197367d681772e6f6cc\transformed\firebase-dynamic-links-21.0.1\AndroidManifest.xml:29:17-82
+163        </service>
+164        <service
+164-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:131:9-148:19
+165            android:name="com.yandex.metrica.MetricaService"
+165-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:132:13-61
+166            android:enabled="true"
+166-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:133:13-35
+167            android:exported="false"
+167-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:134:13-37
+168            android:process=":Metrica" >
+168-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:135:13-39
+169            <intent-filter>
+169-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:136:13-142:29
+170                <category android:name="android.intent.category.DEFAULT" />
+170-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:137:17-76
+170-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:137:27-73
+171
+172                <action android:name="com.yandex.metrica.IMetricaService" />
+172-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:139:17-77
+172-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:139:25-74
+173
+174                <data android:scheme="metrica" />
+174-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:25:13-27:42
+174-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:27:17-39
+175            </intent-filter>
+176
+177            <meta-data
+177-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:144:13-147:49
+178                android:name="metrica:api:level"
+178-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:145:17-49
+179                android:value="91" />
+179-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:146:17-35
+180        </service>
+181        <service
+181-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:149:9-161:19
+182            android:name="com.yandex.metrica.ConfigurationService"
+182-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:150:13-67
+183            android:enabled="true"
+183-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:151:13-35
+184            android:exported="false"
+184-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:152:13-37
+185            android:process=":Metrica" >
+185-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:153:13-39
+186            <meta-data
+186-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:154:13-156:37
+187                android:name="metrica:configuration:api:level"
+187-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:155:17-63
+188                android:value="3" />
+188-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:156:17-34
+189
+190            <intent-filter>
+190-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:158:13-160:29
+191                <action android:name="com.yandex.metrica.configuration.ACTION_INIT" />
+191-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:159:17-87
+191-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:159:25-84
+192            </intent-filter>
+193        </service>
+194        <service
+194-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:162:9-167:42
+195            android:name="com.yandex.metrica.ConfigurationJobService"
+195-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:163:13-70
+196            android:enabled="true"
+196-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:164:13-35
+197            android:exported="false"
+197-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:165:13-37
+198            android:permission="android.permission.BIND_JOB_SERVICE"
+198-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:166:13-69
+199            android:process=":Metrica" />
+199-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:167:13-39
+200        <!--
+201 <receiver
+202             android:name="com.yandex.metrica.MetricaEventHandler"
+203             android:enabled="true"
+204             android:exported="true">
+205             <intent-filter>
+206                 <action android:name="com.android.vending.INSTALL_REFERRER" />
+207             </intent-filter>
+208         </receiver>
+209        -->
+210        <receiver
+210-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:178:9-187:20
+211            android:name="com.yandex.metrica.ConfigurationService"
+211-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:179:13-67
+212            android:enabled="true"
+212-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:180:13-35
+213            android:exported="true"
+213-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:181:13-36
+214            android:permission="TODO"
+214-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:182:13-38
+215            android:process=":Metrica" >
+215-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:183:13-39
+216            <intent-filter>
+216-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:184:13-186:29
+217                <action android:name="com.yandex.metrica.configuration.service.PLC" />
+217-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:185:17-87
+217-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:185:25-84
+218            </intent-filter>
+219        </receiver>
+220
+221        <provider
+221-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:189:9-194:42
+222            android:name="com.yandex.metrica.PreloadInfoContentProvider"
+222-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:190:13-73
+223            android:authorities="ru.mertech.sbpskb.appmetrica.preloadinfo.retail"
+223-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:191:13-82
+224            android:enabled="true"
+224-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:192:13-35
+225            android:exported="false"
+225-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:193:13-37
+226            android:process=":Metrica" />
+226-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:194:13-39
+227
+228        <receiver
+228-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:196:9-199:40
+229            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+229-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:197:13-85
+230            android:enabled="true"
+230-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:198:13-35
+231            android:exported="false" />
+231-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:199:13-37
+232
+233        <service
+233-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:201:9-204:40
+234            android:name="com.google.android.gms.measurement.AppMeasurementService"
+234-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:202:13-84
+235            android:enabled="true"
+235-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:203:13-35
+236            android:exported="false" />
+236-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:204:13-37
+237        <service
+237-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:205:9-209:72
+238            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+238-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:206:13-87
+239            android:enabled="true"
+239-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:207:13-35
+240            android:exported="false"
+240-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:208:13-37
+241            android:permission="android.permission.BIND_JOB_SERVICE" />
+241-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:209:13-69
+242
+243        <receiver
+243-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:211:9-218:20
+244            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+244-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:212:13-78
+245            android:exported="true"
+245-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:213:13-36
+246            android:permission="com.google.android.c2dm.permission.SEND" >
+246-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:214:13-73
+247            <intent-filter>
+247-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:215:13-217:29
+248                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+248-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:216:17-81
+248-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:216:25-78
+249            </intent-filter>
+250        </receiver>
+251
+252        <provider
+252-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:220:9-225:51
+253            android:name="com.google.firebase.provider.FirebaseInitProvider"
+253-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:221:13-77
+254            android:authorities="ru.mertech.sbpskb.firebaseinitprovider"
+254-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:222:13-73
+255            android:directBootAware="true"
+255-->[com.google.firebase:firebase-common:20.1.0] C:\Users\user\.gradle\caches\transforms-3\0ec8a149084821cd6e366e49771167f1\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+256            android:exported="false"
+256-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:223:13-37
+257            android:initOrder="100" />
+257-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:224:13-36
+258
+259        <activity
+259-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:227:9-229:40
+260            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+260-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:228:13-79
+261            android:exported="false"
+261-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:229:13-37
+262            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+262-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\user\.gradle\caches\transforms-3\0776a990618e4755affb8fc045bc8dba\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+263
+264        <meta-data
+264-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:231:9-233:69
+265            android:name="com.google.android.gms.version"
+265-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:232:13-58
+266            android:value="@integer/google_play_services_version" />
+266-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:233:13-66
+267
+268        <service
+268-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:235:9-241:19
+269            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+269-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:236:13-103
+270            android:exported="false" >
+270-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:237:13-37
+271            <meta-data
+271-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:238:13-240:39
+272                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+272-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:239:17-94
+273                android:value="cct" />
+273-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:240:17-36
+274        </service>
+275        <service
+275-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:242:9-245:72
+276            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+276-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:243:13-117
+277            android:exported="false"
+277-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:244:13-37
+278            android:permission="android.permission.BIND_JOB_SERVICE" />
+278-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:245:13-69
+279
+280        <receiver
+280-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:247:9-249:40
+281            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+281-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:248:13-132
+282            android:exported="false" />
+282-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:249:13-37
+283
+284        <meta-data
+284-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:251:9-253:36
+285            android:name="com.android.dynamic.apk.fused.modules"
+285-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:252:13-65
+286            android:value="base" />
+286-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:253:13-33
+287        <meta-data
+287-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:254:9-256:44
+288            android:name="com.android.vending.splits"
+288-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:255:13-54
+289            android:value="@xml/splits0" />
+289-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:256:13-41
+290        <meta-data
+290-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:257:9-259:33
+291            android:name="com.android.vending.derived.apk.id"
+291-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:258:13-62
+292            android:value="1" />
+292-->C:\Users\user\AndroidStudioProjects\qrsbp\app\src\main\AndroidManifest.xml:259:13-30
+293
+294        <uses-library
+294-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+295            android:name="androidx.window.extensions"
+295-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+296            android:required="false" />
+296-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+297        <uses-library
+297-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+298            android:name="androidx.window.sidecar"
+298-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+299            android:required="false" />
+299-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\046a55a5d1410de65c4b429e2eddeb1d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+300
+301        <activity
+301-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+302            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+302-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+303            android:clearTaskOnLaunch="true"
+303-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+304            android:screenOrientation="sensorLandscape"
+304-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+305            android:stateNotNeeded="true"
+305-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+306            android:theme="@style/zxing_CaptureTheme"
+306-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+307            android:windowSoftInputMode="stateAlwaysHidden" />
+307-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\user\.gradle\caches\transforms-3\03745587079d58196a052ec4accf9121\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+308
+309        <service
+309-->[androidx.room:room-runtime:2.4.2] C:\Users\user\.gradle\caches\transforms-3\777c0cb26009ba1757f07db48cfc99eb\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+310            android:name="androidx.room.MultiInstanceInvalidationService"
+310-->[androidx.room:room-runtime:2.4.2] C:\Users\user\.gradle\caches\transforms-3\777c0cb26009ba1757f07db48cfc99eb\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+311            android:directBootAware="true"
+311-->[androidx.room:room-runtime:2.4.2] C:\Users\user\.gradle\caches\transforms-3\777c0cb26009ba1757f07db48cfc99eb\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+312            android:exported="false" />
+312-->[androidx.room:room-runtime:2.4.2] C:\Users\user\.gradle\caches\transforms-3\777c0cb26009ba1757f07db48cfc99eb\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+313
+314        <provider
+314-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+315            android:name="androidx.startup.InitializationProvider"
+315-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+316            android:authorities="ru.mertech.sbpskb.androidx-startup"
+316-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+317            android:exported="false" >
+317-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+318            <meta-data
+318-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+319                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+319-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+320                android:value="androidx.startup" />
+320-->[androidx.emoji2:emoji2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\97c94f049b1b20fa01f28be1afed0a4f\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+321            <meta-data
+321-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\bda4a3e16b0f360ae7288841440b8d72\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+322                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+322-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\bda4a3e16b0f360ae7288841440b8d72\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+323                android:value="androidx.startup" />
+323-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\user\.gradle\caches\transforms-3\bda4a3e16b0f360ae7288841440b8d72\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+324        </provider>
+325    </application>
+326
+327</manifest>
