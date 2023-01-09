@@ -1,6 +1,5 @@
 # QR-SBP![app-17032022-07](https://user-images.githubusercontent.com/115705782/211366226-4943334e-2b5c-434f-923b-81521c55873d.png)
 
-![app-17032022-09](https://user-images.githubusercontent.com/115705782/211372691-09d92374-8686-40f0-bcf5-2d1c709ba9ca.png)
 ![app-17032022-10](https://user-images.githubusercontent.com/115705782/211372699-ffdfbf5b-9db3-4521-85db-92f34a4faa18.png)
 ![app-17032022-08](https://user-images.githubusercontent.com/115705782/211372707-a70c4d72-3172-4178-afd0-fcd9e028f27c.png)
 ![app-17032022-03](https://user-images.githubusercontent.com/115705782/211372711-0e8830bc-ab71-4913-b13d-4664c0c2ed13.png)
